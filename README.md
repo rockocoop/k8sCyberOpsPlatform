@@ -5,7 +5,7 @@ This repo is dedicated to creating a k8s platform integrated framework for Cyber
 The goal here is to create a consolidated framework of tools that can be easily deployed on k8s and used for blue/red hat 
 activities with the goal of easing the adoption of effective cyber defense and offense in organizations.
 
-##Focus
+## Focus
 In other feilds, such as DevOps and Machine Learinging environments, there are trends and directions for clear platforms that can be 
 worked on in the community to enhance the common user's experience and ability to advance.  With the advant of k8s as the leading cloud 
 platform, and as in Kiali linux, I believe there should be a consolidated community effort to do the following:
