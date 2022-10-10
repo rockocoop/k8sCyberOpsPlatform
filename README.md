@@ -18,3 +18,6 @@ in a consolidated and easy to adopt manner in the dominant k8s environments used
 abilities in comparison to traditional platforms and methods.
 
 
+## ToDo
+Look at the following link to see the main milestones https://github.com/rockocoop/k8sCyberOpsPlatform/milestones 
+These are the high level goals that need to be invested in and translated into issues, etc.
