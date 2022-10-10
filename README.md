@@ -19,5 +19,4 @@ abilities in comparison to traditional platforms and methods.
 
 
 ## ToDo
-Look at the following link to see the main milestones https://github.com/rockocoop/k8sCyberOpsPlatform/milestones 
-These are the high level goals that need to be invested in and translated into issues, etc.
+Check Issues Tab to review/add/contribute
