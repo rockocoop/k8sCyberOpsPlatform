@@ -1,4 +1,4 @@
-# k8sCyberOpsPlatform
+# k8sCyberOpsPlatform (k8s-COP)
 
 This repo is dedicated to creating a k8s platform integrated framework for CyberOps.
 
@@ -6,7 +6,7 @@ The goal here is to create a consolidated framework of tools that can be easily 
 activities with the goal of easing the adoption of effective cyber defense and offense in organizations.
 
 ## Focus
-In other feilds, such as DevOps and Machine Learinging environments, there are trends and directions regarding platforms that can be 
+In other fields, such as DevOps and Machine Learning environments, there are trends and directions regarding platforms that can be 
 worked on in the community to enhance the common user's experience and ability to advance.  With the advant of k8s as the leading cloud 
 platform, and as in Kiali linux, I believe there should be a consolidated community effort to do the following:
 - consolidate a list of the common tools
@@ -19,4 +19,8 @@ abilities in comparison to traditional platforms and methods.
 
 
 ## ToDo
-Check Issues Tab to review/add/contribute
+1. Define target users
+2. Create first User Story
+3. Break down main areas of R&D (eg. find equivalent/competing products, define missing parts to focus on, create feature list..)  
+4. Check Issues Tab to review/add/contribute
+
