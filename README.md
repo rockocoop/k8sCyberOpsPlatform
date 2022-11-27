@@ -17,6 +17,7 @@ To be clear, this is NOT a k8s testing tool necessarily.  The goal here is to br
 in a consolidated and easy to adopt manner in the dominant k8s environments used today, utilizing the platforms
 abilities in comparison to traditional platforms and methods.
 
+Link to HLD: https://docs.google.com/document/d/e/2PACX-1vRQOhTGWU9REMblNfNkg7yBQeTV3b04wZioabs8BleF2UGy8xvWuphOkBYwERuL-jql1P9kmq2cn_OI/pub 
 
 ## ToDo
 1. Define target users
